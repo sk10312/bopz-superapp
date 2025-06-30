@@ -1,1 +1,1 @@
-{"name": "bopz-frontend", "scripts": {"dev": "next dev"}}
+{"name": "bopz-backend", "scripts": {"start": "node server.js"}}
